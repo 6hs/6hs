@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @6hs
-- 👀 I’m interested in pc/mobile games
+- 👀 I’m interested in pc games
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me @adrian.n___ on instagram
+- 📫 How to reach me @adrian320913 on instagram
 
 <!---
 6hs/6hs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
